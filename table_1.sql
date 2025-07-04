@@ -3,6 +3,8 @@ SELECT
 	cp.value AS food_value,
 	cp.category_code AS food_category,
 	cpc.name AS food_name,
+	cpc.price_value,
+	cpc.price_unit,
 	date_part('year', cp.date_from):: int AS food_year,
 	cpay.value AS wage_value,
 	cpay.industry_branch_code,
