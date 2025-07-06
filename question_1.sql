@@ -5,7 +5,6 @@ SELECT
 	wage_year
 FROM t_jarmila_sustkova_project_sql_primary_final tjspspf
 GROUP BY industry_branch_name, wage_year
-ORDER BY wage_year
 )
 SELECT 
 	aib.*,
