@@ -3,6 +3,7 @@
 Tento projekt je mým finálním výstupem Datové akademie u Engeta.
 
 **Struktura projektu:**
+
 t_jarmila_sustkova_project_sql_primary_final - sql dotaz pro vytvoření tabulky: table1.sql
 t_jarmila_sustkova_project_sql_secondary_final - sql dotaz pro vytvoření tabulky: table2.sql
 question_1.sql
